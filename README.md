@@ -1,2 +1,3 @@
-# Forza4HorizonHUD
-Forza4HorizonHUD for CarX Drift Racing Online
+# Forza 4 Horizon HUD
+Forza 4 Horizon HUD for CarX Drift Racing Online
+Made by Dova
