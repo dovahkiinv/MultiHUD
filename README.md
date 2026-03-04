@@ -31,6 +31,7 @@ Replaces the default speedometer with fully custom, game-inspired instrument clu
 | Theme | Description |
 |-------|-------------|
 | NFSU2Poland | Custom NFSU2 variant |
+| 2Faded | For 2Faded Team |
 
 ---
 
