@@ -19,7 +19,7 @@ Replaces the default speedometer with fully custom, game-inspired instrument clu
 
 ## 📦 HUD Themes
 
-### Open HUDs
+### HUDs
 | Theme | Inspired by |
 |-------|-------------|
 | FH4 | Forza Horizon 4 |
